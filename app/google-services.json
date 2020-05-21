@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005695512843",
+    "firebase_url": "https://astute-resolution.firebaseio.com",
+    "project_id": "astute-resolution",
+    "storage_bucket": "astute-resolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005695512843:android:53047d908e2aa4e66d320e",
+        "android_client_info": {
+          "package_name": "com.example.astuteresolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005695512843-d4i9180bh0f14vjkbmidjqae6p08h023.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz7-8PvI1JgASpunJQ217-XppiIkcLWxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005695512843-d4i9180bh0f14vjkbmidjqae6p08h023.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

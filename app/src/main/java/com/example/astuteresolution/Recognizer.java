@@ -15,6 +15,7 @@ limitations under the License.
 
 package com.example.astuteresolution;
 
+import android.annotation.SuppressLint;
 import android.content.ContentResolver;
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
@@ -87,6 +88,7 @@ public class Recognizer {
             return new RectF(location);
         }
 
+        @SuppressLint("DefaultLocale")
         @Override
         public String toString() {
             String resultString = "";
